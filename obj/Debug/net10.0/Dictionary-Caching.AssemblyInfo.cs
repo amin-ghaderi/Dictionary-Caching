@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dictionary-Caching")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c30c40dc04f8f7e91e4d537e479dccf9a0ac71f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dictionary-Caching")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dictionary-Caching")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
