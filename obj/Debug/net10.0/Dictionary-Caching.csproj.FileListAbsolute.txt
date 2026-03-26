@@ -1,0 +1,14 @@
+C:\Users\public\myapps\Dictionary-Caching\bin\Debug\net10.0\Dictionary-Caching.exe
+C:\Users\public\myapps\Dictionary-Caching\bin\Debug\net10.0\Dictionary-Caching.deps.json
+C:\Users\public\myapps\Dictionary-Caching\bin\Debug\net10.0\Dictionary-Caching.runtimeconfig.json
+C:\Users\public\myapps\Dictionary-Caching\bin\Debug\net10.0\Dictionary-Caching.dll
+C:\Users\public\myapps\Dictionary-Caching\bin\Debug\net10.0\Dictionary-Caching.pdb
+C:\Users\public\myapps\Dictionary-Caching\obj\Debug\net10.0\Dictionary-Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\public\myapps\Dictionary-Caching\obj\Debug\net10.0\Dictionary-Caching.AssemblyInfoInputs.cache
+C:\Users\public\myapps\Dictionary-Caching\obj\Debug\net10.0\Dictionary-Caching.AssemblyInfo.cs
+C:\Users\public\myapps\Dictionary-Caching\obj\Debug\net10.0\Dictionary-Caching.csproj.CoreCompileInputs.cache
+C:\Users\public\myapps\Dictionary-Caching\obj\Debug\net10.0\Dictionary-Caching.dll
+C:\Users\public\myapps\Dictionary-Caching\obj\Debug\net10.0\refint\Dictionary-Caching.dll
+C:\Users\public\myapps\Dictionary-Caching\obj\Debug\net10.0\Dictionary-Caching.pdb
+C:\Users\public\myapps\Dictionary-Caching\obj\Debug\net10.0\Dictionary-Caching.genruntimeconfig.cache
+C:\Users\public\myapps\Dictionary-Caching\obj\Debug\net10.0\ref\Dictionary-Caching.dll
